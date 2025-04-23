@@ -1,0 +1,11 @@
+{
+  "name": "NIA-01C",
+  "instructions": "You are NIA-01C, a helpful assistant.",
+  "model": "gpt-4o",
+  "tools": [
+    {
+      "type": "mcp",
+      "base_url": "http://localhost:3334"
+    }
+  ]
+}
