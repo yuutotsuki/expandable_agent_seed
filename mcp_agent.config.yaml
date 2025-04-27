@@ -1,5 +1,0 @@
-mcp:
-  servers:
-    memory:
-      command: docker
-      args: ["run", "--rm", "-it", "-p", "3333:3333", "mcp/memory"]
