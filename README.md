@@ -13,6 +13,7 @@ A highly extensible template project for building AI agents.
 ## 📄 Overview
 
 Expandable Agent Seed is a starter project designed to help you easily create "extensible agents."  
+It utilizes OpenAI API and Agent SDK.
 It comes with the following features out of the box, and you can freely add or expand functionalities as you like:
 
 - Natural language file search
@@ -116,7 +117,8 @@ This project was created through collaboration between AI and a human developer.
 
 ## 📄 概要
 
-Expandable Agent Seed は、「拡張可能なエージェント」を簡単に作り始められるシード（種）プロジェクトです。  
+Expandable Agent Seed は、「拡張可能なエージェント」を簡単に作り始められるシード（種）プロジェクトです。
+このプロジェクトは OpenAI API と Agent SDK を活用 しています。
 まずは以下の機能を備えていますが、ここから自由に機能を追加・拡張できます。
 
 - 自然言語でファイル検索
